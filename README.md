@@ -25,5 +25,5 @@ $ pip install selenium
 $ pip install progressbar2 
 ```
 
-:small_red_triangle: In order to use the program with Chrome browser, ChromeDriver is needed (and some modifications in code). 
+:small_red_triangle: In order to use the program with Chrome browser, ChromeDriver is needed (and some modifications in code).  :small_red_triangle:
 
