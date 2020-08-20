@@ -14,11 +14,11 @@ Input .xlsx file(e.g Products.xlsx) contains rows with:
 -skroutz URL for the current product 
 
 
-**Requirements**:
-:arrow_forward: Download Mozilla Firefox browser latest version
-:arrow_forward: Download [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
-:arrow_forward: Install *Python 3* 
-:arrow_forward: Install the following libraries (or execute the program *install-python-libraries.py*):  
+**Requirements**: </br>
+:arrow_forward: Download Mozilla Firefox browser latest version </br>
+:arrow_forward: Download [GeckoDriver](https://github.com/mozilla/geckodriver/releases) </br>
+:arrow_forward: Install *Python 3*  </br>
+:arrow_forward: Install the following libraries (or execute the program *install-python-libraries.py*):   </br>
 ```
 $ pip install xlrd  
 $ pip install selenium  
